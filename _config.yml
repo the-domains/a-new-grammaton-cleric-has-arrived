@@ -1,0 +1,28 @@
+name: 'A New Grammaton Cleric Has Arrived!'
+favicon: null
+layout_spectrum: 0.9933744450099766
+typography_spectrum: 0.9558906152378768
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.19720618636347353
+  lightness: 0.7859983542002738
+  saturation: 0.5504522523842752
+  rhythmicContrast: 0.5108117128256708
+purpose: []
