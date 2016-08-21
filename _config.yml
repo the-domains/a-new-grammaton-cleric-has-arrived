@@ -1,8 +1,34 @@
-name: A New Grammaton Cleric Has Arrived...
-favicon: null
-layout_spectrum: 0.5985663
 typography_spectrum: 0.08602151
-title: Alberto Aguirre
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6875
+  lightness: 0.375
+  saturation: 0.1272401
+  rhythmicContrast: 0.8028674
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5985663
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: A New Grammaton Cleric Has Arrived...
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: FAY - BOO
+    url: 'https://www.facebook.com/alberto.aguirre.92102'
+    type: external
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +41,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.6875
-  lightness: 0.375
-  saturation: 0.1272401
-  rhythmicContrast: 0.8028674
+title: Alberto Aguirre
 purpose: []
