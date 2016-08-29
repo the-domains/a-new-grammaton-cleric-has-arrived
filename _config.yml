@@ -14,16 +14,16 @@ collections:
       number: 10
 description: An Original Impression
 color:
-  saturation: 0.1272401
+  saturation: 0.8530466
   brandStrength: 0
-  lightness: 0.375
+  lightness: 0.2956989
   brandColors:
     - '#A690A4'
     - '#B68F9D'
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  rhythmicContrast: 0.8028674
+  rhythmicContrast: 0.1021505
 cta:
   bucket: null
   version: null
