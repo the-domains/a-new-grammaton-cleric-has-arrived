@@ -1,5 +1,6 @@
-layout_spectrum: 0.7674208034295589
 typography_spectrum: 0.5237015904858708
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#25064D'
@@ -11,15 +12,26 @@ color:
   lightness: 0.03733428311534226
   saturation: 0.06193522643297911
   rhythmicContrast: 0.43087466643191874
-name: Grammaton Cleric
-favicon: null
-content_rating:
-  adult: false
+opengraph:
+  image: null
+  type: null
+  appId: ''
+layout_spectrum: 0.7674208034295589
+analytics:
+  google: null
+  facebook: null
+  twitter: null
 author:
   name: Alberto
   email: aguirreb29@gmail.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/49586341-9056-4873-b583-9fe3d15604b7.jpg
+name: Grammaton Cleric
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -33,17 +45,5 @@ collections:
     permalink:
       path: '/:title/'
 title: The Newest Addition To The Cleric Magnitude
-description: The Original Impression
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: ''
+description: The First Original Impression
 purpose: []
