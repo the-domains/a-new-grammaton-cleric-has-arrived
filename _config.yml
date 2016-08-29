@@ -1,6 +1,5 @@
-typography_spectrum: 0.4301075
-content_rating:
-  adult: false
+layout_spectrum: 0.8361124340444803
+typography_spectrum: 0.08977975253947079
 color:
   saturation: 0.1272401
   brandStrength: 0.6875
@@ -12,11 +11,12 @@ color:
     - '#FBB9BF'
     - '#E376B7'
   lightness: 0.375
+content_rating:
+  adult: false
 opengraph:
   image: null
   type: null
   appId: albertoj29@outlook.com
-layout_spectrum: 1
 analytics:
   twitter: null
   google: null
