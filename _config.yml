@@ -1,5 +1,6 @@
-layout_spectrum: 0.8361124340444803
 typography_spectrum: 0.08977975253947079
+content_rating:
+  adult: false
 color:
   saturation: 0.1272401
   brandStrength: 0.6875
@@ -11,19 +12,21 @@ color:
     - '#FBB9BF'
     - '#E376B7'
   lightness: 0.375
-content_rating:
-  adult: false
 opengraph:
   image: null
   type: null
-  appId: albertoj29@outlook.com
+  appId: ''
+layout_spectrum: 0.8361124340444803
 analytics:
   twitter: null
   google: null
   facebook: null
+author:
+  name: Alberto
+  email: aguirreb29@gmail.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/49586341-9056-4873-b583-9fe3d15604b7.jpg
-name: A New Grammaton Cleric Has Arrived...
+name: Grammaton Cleric
 cta:
   bucket: null
   version: null
@@ -41,6 +44,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Alberto Aguirre
+title: The newest addition to the singularity
 description: An Original Impression
 purpose: []
