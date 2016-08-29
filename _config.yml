@@ -1,4 +1,6 @@
 typography_spectrum: 0.08602151
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#A690A4'
@@ -13,12 +15,14 @@ color:
 opengraph:
   image: null
   type: null
-  appId: null
+  appId: albertoj29@outlook.com
 layout_spectrum: 0.5985663
 analytics:
   google: null
   facebook: null
   twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/49586341-9056-4873-b583-9fe3d15604b7.jpg
 name: A New Grammaton Cleric Has Arrived...
 cta:
   domain: null
