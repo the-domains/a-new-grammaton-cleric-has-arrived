@@ -1,49 +1,49 @@
-layout_spectrum: 0.4546204803045839
-typography_spectrum: 0.8490363496821374
-color:
-  brandColors:
-    - '#25064D'
-    - '#36175E'
-    - '#553285'
-    - '#7B52AB'
-    - '#9768D1'
-  brandStrength: 0.4662310741841793
-  lightness: 0.03733428311534226
-  saturation: 0.06193522643297911
-  rhythmicContrast: 0.43087466643191874
-content_rating:
-  adult: false
-opengraph:
-  image: null
-  type: null
-  appId: ''
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-author:
-  name: Alberto
-  email: aguirreb29@gmail.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/49586341-9056-4873-b583-9fe3d15604b7.jpg
-name: Grammaton Cleric
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
+title: The newest addition to the singularity
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-title: The Newest Addition To The Cleric Magnitude
-description: The First Original Impression
-purpose: []
+description: An Original Impression
+color:
+  saturation: 0.1272401
+  brandStrength: 0
+  lightness: 0.375
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  rhythmicContrast: 0.8028674
+cta:
+  bucket: null
+  version: null
+  domain: null
+name: Grammaton Cleric
+author:
+  name: Alberto
+  email: aguirreb29@gmail.com
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: ''
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/49586341-9056-4873-b583-9fe3d15604b7.jpg
+typography_spectrum: 0.08977975253947079
+layout_spectrum: 0.8361124340444803
+content_rating:
+  adult: false
