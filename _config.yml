@@ -1,49 +1,49 @@
-typography_spectrum: 0.08602151
-content_rating:
-  adult: false
-color:
-  brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.6875
-  lightness: 0.375
-  saturation: 0.1272401
-  rhythmicContrast: 0.8028674
-opengraph:
-  image: null
-  type: null
-  appId: albertoj29@outlook.com
-layout_spectrum: 0.5985663
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/49586341-9056-4873-b583-9fe3d15604b7.jpg
-name: A New Grammaton Cleric Has Arrived...
-cta:
-  domain: null
-  bucket: null
-  version: null
-navigation:
-  - name: FAY - BOO
-    url: 'https://www.facebook.com/alberto.aguirre.92102'
-    type: external
-favicon: null
+title: Alberto Aguirre
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: Alberto Aguirre
-purpose: []
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 0.1272401
+  brandStrength: 0.6875
+  rhythmicContrast: 0.8028674
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  lightness: 0.375
+navigation:
+  - name: FAY - BOO
+    url: 'https://www.facebook.com/alberto.aguirre.92102'
+    type: external
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
+name: A New Grammaton Cleric Has Arrived...
+opengraph:
+  image: null
+  type: null
+  appId: albertoj29@outlook.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/49586341-9056-4873-b583-9fe3d15604b7.jpg
+typography_spectrum: 0.4301075
+layout_spectrum: 1
+content_rating:
+  adult: false
