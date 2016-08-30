@@ -1,5 +1,37 @@
-title: The newest addition to the singularity
-purpose: []
+typography_spectrum: 0.5322581
+content_rating:
+  adult: false
+color:
+  saturation: 0.8530466
+  brandStrength: 0
+  lightness: 0.2956989
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  rhythmicContrast: 0.1021505
+opengraph:
+  image: null
+  type: null
+  appId: ''
+layout_spectrum: 0.9605735
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+author:
+  name: Alberto
+  email: aguirreb29@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/49586341-9056-4873-b583-9fe3d15604b7.jpg
+name: Grammaton Cleric
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -12,38 +44,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: The Newest Addition To The Cleric Magnitude
 description: An Original Impression
-color:
-  saturation: 0.8530466
-  brandStrength: 0
-  lightness: 0.2956989
-  brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  rhythmicContrast: 0.1021505
-cta:
-  bucket: null
-  version: null
-  domain: null
-name: Grammaton Cleric
-author:
-  name: Alberto
-  email: aguirreb29@gmail.com
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: ''
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/49586341-9056-4873-b583-9fe3d15604b7.jpg
-typography_spectrum: 0.5322581
-layout_spectrum: 0.9605735
-content_rating:
-  adult: false
+purpose: []
