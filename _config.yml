@@ -1,7 +1,18 @@
+layout_spectrum: 0.3604568485170603
+typography_spectrum: 0.8644320205785334
+color:
+  brandColors:
+    - '#DDDCC5'
+    - '#958976'
+    - '#611427'
+    - '#1D2326'
+    - '#6A6A61'
+  brandStrength: 0.7007325817830861
+  lightness: 0.2512564721982926
+  saturation: 0.25229558162391186
+  rhythmicContrast: 0.836520905373618
 name: Grammaton Cleric
 favicon: null
-layout_spectrum: 0.71909
-typography_spectrum: 0.62996
 content_rating:
   adult: false
 author:
@@ -35,15 +46,4 @@ opengraph:
   image: null
   type: null
   appId: ''
-color:
-  brandColors:
-    - '#B9121B'
-    - '#4C1B1B'
-    - '#F6E497'
-    - '#FCFAE1'
-    - '#BD8D46'
-  brandStrength: 1
-  lightness: 0
-  saturation: 1
-  rhythmicContrast: 1
 purpose: []
